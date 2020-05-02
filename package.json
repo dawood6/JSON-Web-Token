@@ -1,16 +1,19 @@
 {
-  "name": "assignment",
+  "name": "express-assignmnet",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Dawood Sadiq",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawood6/JSON-Web-Token.git"
+  },
+  "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
-    "yarn": "^1.22.4"
-  }
+  "bugs": {
+    "url": "https://github.com/dawood6/JSON-Web-Token/issues"
+  },
+  "homepage": "https://github.com/dawood6/JSON-Web-Token#readme"
 }
